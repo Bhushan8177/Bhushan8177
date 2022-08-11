@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Reactjs**
 
-- 🌱 I’m currently learning ** MERN **
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhushan8177](https://github.com/Bhushan8177)
 
