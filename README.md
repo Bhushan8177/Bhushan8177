@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bk" alt="bk" /></a> </p>
 
-- 🔭 I’m currently working on **small python projects**
+- 🔭 I’m currently working on **Reactjs**
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning ** MERN **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhushan8177](https://github.com/Bhushan8177)
 
