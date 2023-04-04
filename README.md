@@ -1,6 +1,6 @@
 # Me
 <h1 align="center">Hi 👋, I'm Bhushan Kale</h1>
-<h3 align="center">Developing and Impacting millions!!</h3>
+<h3 align="center">Consistently Developing for better!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bk&label=Profile%20views&color=0e75b6&style=flat" alt="bk" /> </p>
 
