@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhushan-kale-53493b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhushan-kale-53493b203/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhushan-kale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhushan-kale-53493b203/" height="30" width="40" /></a>
 <a href="https://instagram.com/bk_bhushan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bk_bhushan__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhushan_kale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhushan_kale" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhushan_kale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhushan_kale" height="30" width="40" /></a>
