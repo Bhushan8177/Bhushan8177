@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bk&label=Profile%20views&color=0e75b6&style=flat" alt="bk" /> </p>
 
-- 🔭 I’m currently working working as an SDE Intern at **Resolute.ai**
+- 🔭 I’m currently working working as an Developer Intern at **PTC Software Pvt Ltd**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently mastering **MERN (Web & Mobile)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhushan8177](https://github.com/Bhushan8177)
 
