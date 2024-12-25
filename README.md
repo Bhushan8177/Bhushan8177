@@ -1,12 +1,19 @@
 # Me
-<h1 align="center">Hi 👋, I'm Bhushan Kale</h1>
-<h3 align="center">Consistently Developing for better!!</h3>
+<h1 align="center">Hi 👋, I'm Bhushan Kale  <a href="https://twitter.com/BKBhushan10">
+  <img src="https://img.shields.io/twitter/follow/BKBhushan10?style=social" alt="Twitter Follow">
+</a> </h1> 
+
+
+
+<h3 align="center">Building Scalable Solutions for Real-World Challenges</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bk&label=Profile%20views&color=0e75b6&style=flat" alt="bk" /> </p>
 
-- 🔭 I’m currently working working as an Developer Intern at **PTC Software Pvt Ltd**
+- 🔭 I’m currently working as a **Software Engineer at Red Hat**  
+- ✨ I also actively contribute to **KreaitorAI** and engage in **freelancing gigs**  
 
-- 🌱 I’m currently mastering **MERN (Web & Mobile)**
+- 🌱 I’m currently mastering **MERN (Web & Mobile)** and exploring **Scalable Backend Architectures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bhushan8177](https://github.com/Bhushan8177)
 
@@ -15,7 +22,7 @@
 - ⚡ Fun fact **Don't think I will quit until I say!!**
 
 ## LEETCODE STATS
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=bhushan_kale&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhushan_kale?theme=dark&font=ZCOOL%20KuaiLe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
